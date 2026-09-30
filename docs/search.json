@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Contact Information\n\nhalili-e@webmail.uwinnipeg.ca\n\n\n\nEducation\n\nUndergraduate Studies at University of Winnipeg\n\n\n\nCurrent Positions\n\nAssistant Bookkeeping for Community Respite Services"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Erin Halili",
     "section": "",
-    "text": "title: “Erin Halili” about: template: jolla image: images/IMG_0222.heic links: - icon: github text: Github href: https://github.com/rinnyh"
+    "text": "Majoring in Economics and Finance\nUniversity of Winnipeg"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

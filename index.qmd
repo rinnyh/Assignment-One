@@ -8,3 +8,7 @@ about:
       text: Github
       href: https://github.com/rinnyh
 ---
+
+*Majoring in Economics and Finance*
+
+University of Winnipeg
