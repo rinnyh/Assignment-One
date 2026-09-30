@@ -1,11 +1,10 @@
 ---
-title: "Assignment One"
+title: "Erin Halili"
+about:
+  template: jolla
+  image: images/IMG_0222.heic
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rinnyh
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

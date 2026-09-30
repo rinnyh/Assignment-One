@@ -9,8 +9,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Assignment One",
+    "title": "Erin Halili",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "title: “Erin Halili” about: template: jolla image: images/IMG_0222.heic links: - icon: github text: Github href: https://github.com/rinnyh"
   }
 ]
