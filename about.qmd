@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Hello! My name is Erin and I am twenty two years old. I am an undergraduate student in University of Winnipeg, majoring in Economics and Finance. Outside of school, I spend my time working at one of my two part-time jobs. However, on my free time, I enjoy my hobbies of reading and occasionally playing games.
