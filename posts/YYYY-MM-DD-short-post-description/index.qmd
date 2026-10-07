@@ -1,0 +1,14 @@
+---
+title: "Erin's Blog"
+description: "Assignment One"
+author:
+  - name: Erin Halili
+  - affiliation: Department of Economics, University of Winnipeg
+  - sffiliation_url: https://www.uwinnipeg.ca/economics/
+categories: [Quarto, R, Data Analysis]
+citation:
+  url: https://github.com/rinnyh/Assignment-One
+image: IMG_0208 2.HEIC
+draft: false
+---
+

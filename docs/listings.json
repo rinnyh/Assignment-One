@@ -1,6 +1,8 @@
 [
   {
     "listing": "/posts.html",
-    "items": []
+    "items": [
+      "/posts/YYYY-MM-DD-short-post-description/index.html"
+    ]
   }
 ]
